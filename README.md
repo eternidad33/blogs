@@ -1,6 +1,10 @@
 ## Welcome to MyBlogs
 
-本仓库用于记录了我学习编程的过程
+本仓库用于记录我学习编程过程中的一些重要笔记，发表的博客都在简书和CSDN中
+
+简书的个人主页：https://www.jianshu.com/u/651a6ee53f49
+
+CSDN的个人主页：https://me.csdn.net/qq_42907802
 
 ## 文章目录
 
