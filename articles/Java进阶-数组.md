@@ -5,7 +5,7 @@ foreach循环可以避免使用下标，
 foreach遍历二维数组
 
 ```java
-int data[][] = new int[][]{{1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}, {11, 12, 13, 14, 15}};
+int data[][] = new int[][]{ {1, 2, 3, 4, 5}, {6, 7, 8, 9, 10}, {11, 12, 13, 14, 15} };
 for (int temp[] : data) {
     for (int num : temp) {
         System.out.print(num + ",");
