@@ -10,15 +10,15 @@ CSDN的个人主页：https://me.csdn.net/qq_42907802
 
 ### Java学习
 
-[Java基础知识](/articles/)
+[Java基础知识](/articles/Java基础知识.ipynb)
 
-[Java进阶-数组](/articles/Java%E8%BF%9B%E9%98%B6-%E6%95%B0%E7%BB%84.md)
+[Java进阶-数组](/articles/Java进阶-数组.ipynb)
 
-[Java进阶-String](articles/Java%E8%BF%9B%E9%98%B6-String.md)
+[Java进阶-String](/articles/Java进阶-String.ipynb)
 
-[Java进阶-面向对象](/articles/Java%E8%BF%9B%E9%98%B6-%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
+[Java进阶-面向对象](/articles/Java进阶-抽象类.ipynb)
 
-[Java进阶-抽象类](https://github.com/eternidad33/blogs/blob/master/articles/Java%E8%BF%9B%E9%98%B6-%E6%8A%BD%E8%B1%A1%E7%B1%BB.md)
+[Java进阶-抽象类](/articles/Java进阶-面向对象.ipynb)
 
 ### 数据库学习
 
