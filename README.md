@@ -1,10 +1,12 @@
 ## Welcome to MyBlogs
 
-本仓库用于记录我学习编程过程中的一些重要笔记，发表的博客都在简书和CSDN中
+本仓库用于记录我学习编程过程中的一些重要笔记，发表的博客都在简书和CSDN中。
 
-简书的个人主页：https://www.jianshu.com/u/651a6ee53f49
-
-CSDN的个人主页：https://me.csdn.net/qq_42907802
+<p align="center">
+  <a href="https://www.jianshu.com/u/651a6ee53f49"><img src="https://cdn.jsdelivr.net/gh/eternidad33/picbed@master/img/g简书.png" width=10% height=10% alt="简书"></a> 
+    <a href="https://me.csdn.net/qq_42907802"><img src="https://cdn.jsdelivr.net/gh/eternidad33/picbed@master/img/gcsdn.png" width=10% height=10% alt="CSDN"></a> 
+    <a href="https://gitee.com/eternidad33"><img src="https://cdn.jsdelivr.net/gh/eternidad33/picbed@master/img/ggitee.png" width=10% height=10% alt="gitee"></a>
+</p>
 
 ## 文章目录
 
@@ -25,3 +27,13 @@ CSDN的个人主页：https://me.csdn.net/qq_42907802
 ### 网络编程学习
 
 ### 框架学习
+
+
+
+
+
+---
+
+简书的个人主页：https://www.jianshu.com/u/651a6ee53f49
+
+CSDN的个人主页：https://me.csdn.net/qq_42907802
